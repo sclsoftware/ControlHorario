@@ -1,3 +1,3 @@
-# Control Horario
+# Control de Jornada
 
 ![](home.png)
