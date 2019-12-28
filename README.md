@@ -1,6 +1,6 @@
 # Control de Jornada
 
-![](img/home.png)
+![](img/home.jpg)
 
 
 [Windows 64 bits](https://github.com/sclsoftware/ControlHorario/releases/download/v1/ControlHorario64.exe)
